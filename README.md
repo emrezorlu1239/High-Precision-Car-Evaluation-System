@@ -56,4 +56,4 @@ The model classifies cars into four categories: `unacc`, `acc`, `good`, `vgood`.
 3. Install requirements: `pip install lightgbm lazypredict scikit-learn`
 4. Run the notebook to see the full EDA and model training process.
 
-*"Data is the new oil, but only if you know how to refine it."*
+*"Data is the new oil, but only if you know how to refine it."* 
